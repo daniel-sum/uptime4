@@ -42,9 +42,9 @@
     "url": "https://registratura.taxeimpozite4.ro",
     "icon": "https://favicons.githubusercontent.com/registratura.taxeimpozite4.ro",
     "slug": "ditl-registratura",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 898,
     "timeMonth": 973,
     "timeYear": 973,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-09": 0
+    }
   },
   {
     "name": "SVU",
