@@ -63,9 +63,9 @@
     "url": "https://svu.ps4.ro",
     "icon": "https://favicons.githubusercontent.com/svu.ps4.ro",
     "slug": "svu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -75,6 +75,7 @@
     "timeMonth": 887,
     "timeYear": 902,
     "dailyMinutesDown": {
+      "2021-01-29": 0,
       "2021-01-12": 23
     }
   },
