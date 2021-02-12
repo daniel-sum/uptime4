@@ -24,19 +24,19 @@
     "url": "https://www.mobilitateurbana4.ro",
     "icon": "https://favicons.githubusercontent.com/www.mobilitateurbana4.ro",
     "slug": "dmu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1777,
-    "timeDay": 1857,
-    "timeWeek": 1799,
-    "timeMonth": 1822,
-    "timeYear": 1777,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1775,
+    "timeDay": 1788,
+    "timeWeek": 1789,
+    "timeMonth": 1819,
+    "timeYear": 1775,
     "dailyMinutesDown": {
-      "2021-02-12": 0
+      "2021-02-12": 17
     }
   },
   {
