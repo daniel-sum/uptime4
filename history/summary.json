@@ -4,9 +4,9 @@
     "url": "https://www.ps4.ro",
     "icon": "https://favicons.githubusercontent.com/www.ps4.ro",
     "slug": "ps-4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 2485,
     "timeYear": 2372,
     "dailyMinutesDown": {
+      "2021-02-20": 0,
       "2021-01-01": 29
     }
   },
@@ -46,11 +47,11 @@
     "icon": "https://favicons.githubusercontent.com/registratura.taxeimpozite4.ro",
     "slug": "ditl-registratura",
     "status": "up",
-    "uptime": "95.45%",
+    "uptime": "95.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.04%",
-    "uptimeYear": "95.45%",
+    "uptimeYear": "95.48%",
     "time": 920,
     "timeDay": 695,
     "timeWeek": 973,
