@@ -51,11 +51,11 @@
     "icon": "https://favicons.githubusercontent.com/registratura.taxeimpozite4.ro",
     "slug": "ditl-registratura",
     "status": "up",
-    "uptime": "98.33%",
+    "uptime": "98.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.33%",
+    "uptimeYear": "98.34%",
     "time": 916,
     "timeDay": 1101,
     "timeWeek": 1040,
@@ -84,11 +84,11 @@
     "icon": "https://favicons.githubusercontent.com/svu.ps4.ro",
     "slug": "svu",
     "status": "up",
-    "uptime": "93.20%",
+    "uptime": "93.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.12%",
-    "uptimeYear": "93.20%",
+    "uptimeYear": "93.21%",
     "time": 1007,
     "timeDay": 1226,
     "timeWeek": 968,
@@ -131,9 +131,9 @@
     "url": "https://www.politialocala4.ro",
     "icon": "https://favicons.githubusercontent.com/www.politialocala4.ro",
     "slug": "pol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -142,6 +142,8 @@
     "timeWeek": 2124,
     "timeMonth": 1954,
     "timeYear": 2113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-06": 0
+    }
   }
 ]
