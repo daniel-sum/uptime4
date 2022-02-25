@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 2462,
-    "timeDay": 2842,
-    "timeWeek": 2537,
-    "timeMonth": 2504,
-    "timeYear": 2472,
+    "time": 2461,
+    "timeDay": 2011,
+    "timeWeek": 2468,
+    "timeMonth": 2476,
+    "timeYear": 2471,
     "dailyMinutesDown": {
       "2021-12-20": 31,
       "2021-12-09": 22,
@@ -23,8 +23,7 @@
       "2021-09-30": 19,
       "2021-09-23": 24,
       "2021-09-10": 57,
-      "2021-07-24": 43,
-      "2021-02-25": 56
+      "2021-07-24": 43
     }
   },
   {
@@ -38,10 +37,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1709,
-    "timeDay": 2061,
-    "timeWeek": 1637,
-    "timeMonth": 1758,
+    "time": 1708,
+    "timeDay": 1225,
+    "timeWeek": 1540,
+    "timeMonth": 1735,
     "timeYear": 1701,
     "dailyMinutesDown": {
       "2022-01-18": 37,
@@ -65,9 +64,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.65%",
     "time": 1018,
-    "timeDay": 1182,
-    "timeWeek": 1104,
-    "timeMonth": 1162,
+    "timeDay": 797,
+    "timeWeek": 1038,
+    "timeMonth": 1147,
     "timeYear": 1035,
     "dailyMinutesDown": {
       "2022-02-01": 68,
@@ -89,15 +88,15 @@
     "icon": "https://favicons.githubusercontent.com/svu.ps4.ro",
     "slug": "svu",
     "status": "up",
-    "uptime": "94.37%",
+    "uptime": "94.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "93.49%",
-    "time": 950,
-    "timeDay": 809,
-    "timeWeek": 844,
-    "timeMonth": 896,
+    "time": 949,
+    "timeDay": 598,
+    "timeWeek": 794,
+    "timeMonth": 890,
     "timeYear": 936,
     "dailyMinutesDown": {
       "2022-02-03": 64,
@@ -140,8 +139,7 @@
       "2021-04-29": 520,
       "2021-04-28": 875,
       "2021-03-17": 71,
-      "2021-03-16": 15,
-      "2021-02-25": 38
+      "2021-03-16": 15
     }
   },
   {
@@ -155,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "99.84%",
-    "time": 2066,
-    "timeDay": 2003,
-    "timeWeek": 1899,
-    "timeMonth": 2307,
-    "timeYear": 2050,
+    "time": 2064,
+    "timeDay": 965,
+    "timeWeek": 1677,
+    "timeMonth": 1953,
+    "timeYear": 1990,
     "dailyMinutesDown": {
       "2022-01-31": 830,
       "2021-11-26": 16
