@@ -50,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/registratura.taxeimpozite4.ro.ico",
     "slug": "ditl-registratura",
     "status": "down",
-    "uptime": "78.53%",
+    "uptime": "78.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -61,7 +61,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-17": 1407,
+      "2025-09-18": 74,
+      "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
@@ -424,8 +425,7 @@
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
-      "2024-09-19": 1440,
-      "2024-09-18": 1440
+      "2024-09-19": 1440
     }
   },
   {
@@ -438,14 +438,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.50%",
+    "uptimeYear": "3.48%",
     "time": 1222,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 3823,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2025-09-17": 1407,
+      "2025-09-18": 74,
+      "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
