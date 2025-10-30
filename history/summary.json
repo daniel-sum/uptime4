@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.79%",
-    "time": 3246,
-    "timeDay": 3556,
-    "timeWeek": 3247,
-    "timeMonth": 3136,
-    "timeYear": 3167,
+    "time": 3244,
+    "timeDay": 2503,
+    "timeWeek": 3143,
+    "timeMonth": 3115,
+    "timeYear": 3164,
     "dailyMinutesDown": {
       "2025-10-06": 313,
       "2025-10-05": 137,
@@ -40,10 +40,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1752,
-    "timeDay": 2312,
-    "timeWeek": 1755,
-    "timeMonth": 1819,
-    "timeYear": 1776,
+    "timeDay": 1499,
+    "timeWeek": 1761,
+    "timeMonth": 1815,
+    "timeYear": 1774,
     "dailyMinutesDown": {}
   },
   {
@@ -52,18 +52,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/registratura.taxeimpozite4.ro.ico",
     "slug": "ditl-registratura",
     "status": "down",
-    "uptime": "76.70%",
+    "uptime": "76.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1169,
+    "time": 1172,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-29": 82,
+      "2025-10-30": 82,
+      "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -426,8 +427,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   },
   {
@@ -436,7 +436,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/svu.ps4.ro.ico",
     "slug": "svu",
     "status": "down",
-    "uptime": "62.94%",
+    "uptime": "62.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -447,7 +447,8 @@
     "timeMonth": 0,
     "timeYear": 3823,
     "dailyMinutesDown": {
-      "2025-10-29": 82,
+      "2025-10-30": 82,
+      "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -810,8 +811,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   },
   {
@@ -825,11 +825,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.79%",
-    "time": 3554,
-    "timeDay": 3157,
-    "timeWeek": 2706,
-    "timeMonth": 3037,
-    "timeYear": 3486,
+    "time": 3552,
+    "timeDay": 2944,
+    "timeWeek": 2793,
+    "timeMonth": 3016,
+    "timeYear": 3483,
     "dailyMinutesDown": {
       "2025-10-17": 54,
       "2025-10-06": 313,
