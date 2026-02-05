@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 3157,
-    "timeDay": 2861,
-    "timeWeek": 3041,
-    "timeMonth": 3241,
-    "timeYear": 3117,
+    "time": 3158,
+    "timeDay": 3820,
+    "timeWeek": 3078,
+    "timeMonth": 3238,
+    "timeYear": 3119,
     "dailyMinutesDown": {
       "2025-10-06": 313,
       "2025-10-05": 137,
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1785,
-    "timeDay": 1554,
-    "timeWeek": 1792,
-    "timeMonth": 1968,
-    "timeYear": 1794,
+    "time": 1786,
+    "timeDay": 2018,
+    "timeWeek": 1785,
+    "timeMonth": 1974,
+    "timeYear": 1795,
     "dailyMinutesDown": {}
   },
   {
@@ -62,7 +62,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 1378,
+      "2026-02-05": 115,
+      "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -425,8 +426,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 1440,
-      "2025-02-05": 1440
+      "2025-02-06": 1440
     }
   },
   {
@@ -435,18 +435,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/svu.ps4.ro.ico",
     "slug": "svu",
     "status": "down",
-    "uptime": "59.61%",
+    "uptime": "59.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1453,
+    "time": 1484,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3823,
     "dailyMinutesDown": {
-      "2026-02-04": 1378,
+      "2026-02-05": 115,
+      "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -809,8 +810,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 1440,
-      "2025-02-05": 1440
+      "2025-02-06": 1440
     }
   },
   {
@@ -824,11 +824,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.79%",
-    "time": 3337,
-    "timeDay": 3062,
-    "timeWeek": 2908,
-    "timeMonth": 2966,
-    "timeYear": 3394,
+    "time": 3336,
+    "timeDay": 3338,
+    "timeWeek": 2935,
+    "timeMonth": 2955,
+    "timeYear": 3390,
     "dailyMinutesDown": {
       "2026-02-04": 19,
       "2026-01-25": 23,
