@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.76%",
-    "time": 3155,
-    "timeDay": 4204,
-    "timeWeek": 3072,
-    "timeMonth": 3211,
-    "timeYear": 3134,
+    "time": 3154,
+    "timeDay": 2814,
+    "timeWeek": 3107,
+    "timeMonth": 3200,
+    "timeYear": 3135,
     "dailyMinutesDown": {
       "2026-03-21": 20,
       "2026-03-17": 80,
@@ -42,11 +42,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1781,
-    "timeDay": 2023,
-    "timeWeek": 1678,
-    "timeMonth": 1669,
-    "timeYear": 1786,
+    "time": 1780,
+    "timeDay": 1712,
+    "timeWeek": 1738,
+    "timeMonth": 1671,
+    "timeYear": 1787,
     "dailyMinutesDown": {}
   },
   {
@@ -55,10 +55,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/registratura.taxeimpozite4.ro.ico",
     "slug": "ditl-registratura",
     "status": "down",
-    "uptime": "70.62%",
+    "uptime": "70.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -66,7 +66,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-30": 142,
+      "2026-03-31": 129,
+      "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
@@ -429,8 +430,7 @@
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
-      "2025-04-01": 1440,
-      "2025-03-31": 1440
+      "2025-04-01": 1440
     }
   },
   {
@@ -439,10 +439,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/svu.ps4.ro.ico",
     "slug": "svu",
     "status": "down",
-    "uptime": "57.95%",
+    "uptime": "57.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 3823,
     "timeDay": 0,
@@ -450,7 +450,8 @@
     "timeMonth": 0,
     "timeYear": 3823,
     "dailyMinutesDown": {
-      "2026-03-30": 142,
+      "2026-03-31": 129,
+      "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
@@ -813,8 +814,7 @@
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
-      "2025-04-01": 1440,
-      "2025-03-31": 1440
+      "2025-04-01": 1440
     }
   },
   {
@@ -828,11 +828,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.75%",
-    "time": 3303,
-    "timeDay": 3240,
-    "timeWeek": 2998,
-    "timeMonth": 2871,
-    "timeYear": 3263,
+    "time": 3301,
+    "timeDay": 2564,
+    "timeWeek": 2910,
+    "timeMonth": 2861,
+    "timeYear": 3262,
     "dailyMinutesDown": {
       "2026-03-21": 86,
       "2026-03-20": 3,
