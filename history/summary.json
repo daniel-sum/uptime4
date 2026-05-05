@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 3172,
-    "timeDay": 3072,
-    "timeWeek": 3069,
-    "timeMonth": 3567,
-    "timeYear": 3183,
+    "time": 3171,
+    "timeDay": 2529,
+    "timeWeek": 3074,
+    "timeMonth": 3564,
+    "timeYear": 3182,
     "dailyMinutesDown": {
       "2026-03-21": 20,
       "2026-03-17": 80,
@@ -40,10 +40,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1780,
-    "timeDay": 1610,
-    "timeWeek": 1676,
-    "timeMonth": 1701,
-    "timeYear": 1786,
+    "timeDay": 1574,
+    "timeWeek": 1692,
+    "timeMonth": 1703,
+    "timeYear": 1787,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/registratura.taxeimpozite4.ro.ico",
     "slug": "ditl-registratura",
     "status": "down",
-    "uptime": "69.36%",
+    "uptime": "69.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -63,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-04": 160,
+      "2026-05-05": 154,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -426,8 +427,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -436,7 +436,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/svu.ps4.ro.ico",
     "slug": "svu",
     "status": "down",
-    "uptime": "56.91%",
+    "uptime": "56.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -447,7 +447,8 @@
     "timeMonth": 0,
     "timeYear": 3823,
     "dailyMinutesDown": {
-      "2026-05-04": 160,
+      "2026-05-05": 154,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -810,8 +811,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -825,11 +825,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 3293,
-    "timeDay": 2687,
-    "timeWeek": 2639,
-    "timeMonth": 2780,
-    "timeYear": 3186,
+    "time": 3291,
+    "timeDay": 2411,
+    "timeWeek": 2628,
+    "timeMonth": 2753,
+    "timeYear": 3182,
     "dailyMinutesDown": {
       "2026-03-21": 86,
       "2026-03-20": 3,
