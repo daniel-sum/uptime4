@@ -13,7 +13,7 @@
     "time": 3589,
     "timeDay": 6206,
     "timeWeek": 5921,
-    "timeMonth": 6869,
+    "timeMonth": 6758,
     "timeYear": 3711,
     "dailyMinutesDown": {
       "2025-07-25": 64,
@@ -42,7 +42,7 @@
     "time": 1769,
     "timeDay": 1267,
     "timeWeek": 1683,
-    "timeMonth": 1679,
+    "timeMonth": 1689,
     "timeYear": 1761,
     "dailyMinutesDown": {}
   },
@@ -63,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 10,
+      "2026-07-04": 86,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -447,7 +447,7 @@
     "timeMonth": 0,
     "timeYear": 3823,
     "dailyMinutesDown": {
-      "2026-07-04": 10,
+      "2026-07-04": 86,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -819,17 +819,17 @@
     "url": "https://www.politialocala4.ro",
     "icon": "https://icons.duckduckgo.com/ip3/www.politialocala4.ro.ico",
     "slug": "pol",
-    "status": "down",
+    "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "92.18%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.73%",
-    "time": 3557,
-    "timeDay": 29621,
-    "timeWeek": 7393,
-    "timeMonth": 6315,
-    "timeYear": 3527,
+    "uptimeDay": "86.91%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.72%",
+    "time": 3643,
+    "timeDay": 42421,
+    "timeWeek": 13372,
+    "timeMonth": 7859,
+    "timeYear": 3664,
     "dailyMinutesDown": {
       "2025-07-25": 64,
       "2025-09-17": 65,
@@ -847,7 +847,7 @@
       "2026-03-21": 86,
       "2026-03-20": 3,
       "2026-07-03": 112,
-      "2026-07-04": 0
+      "2026-07-04": 76
     }
   }
 ]
