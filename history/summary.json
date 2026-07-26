@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 3623,
-    "timeDay": 2607,
-    "timeWeek": 3903,
-    "timeMonth": 4394,
-    "timeYear": 3758,
+    "time": 3633,
+    "timeDay": 7493,
+    "timeWeek": 4008,
+    "timeMonth": 4417,
+    "timeYear": 3772,
     "dailyMinutesDown": {
       "2025-09-17": 66,
       "2025-09-21": 130,
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1761,
-    "timeDay": 1267,
-    "timeWeek": 1532,
-    "timeMonth": 1589,
-    "timeYear": 1756,
+    "time": 1762,
+    "timeDay": 2141,
+    "timeWeek": 1537,
+    "timeMonth": 1610,
+    "timeYear": 1758,
     "dailyMinutesDown": {}
   },
   {
@@ -51,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/registratura.taxeimpozite4.ro.ico",
     "slug": "ditl-registratura",
     "status": "down",
-    "uptime": "66.54%",
+    "uptime": "66.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -62,7 +62,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 1042,
+      "2026-07-26": 153,
+      "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -425,8 +426,7 @@
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
-      "2025-07-27": 1440,
-      "2025-07-26": 1440
+      "2025-07-27": 1440
     }
   },
   {
@@ -435,7 +435,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/svu.ps4.ro.ico",
     "slug": "svu",
     "status": "down",
-    "uptime": "54.61%",
+    "uptime": "54.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -446,7 +446,8 @@
     "timeMonth": 0,
     "timeYear": 3823,
     "dailyMinutesDown": {
-      "2026-07-25": 1042,
+      "2026-07-26": 153,
+      "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -809,8 +810,7 @@
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
-      "2025-07-27": 1440,
-      "2025-07-26": 1440
+      "2025-07-27": 1440
     }
   },
   {
@@ -819,16 +819,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.politialocala4.ro.ico",
     "slug": "pol",
     "status": "down",
-    "uptime": "98.40%",
-    "uptimeDay": "9.28%",
+    "uptime": "98.39%",
+    "uptimeDay": "4.31%",
     "uptimeWeek": "1.33%",
-    "uptimeMonth": "43.11%",
-    "uptimeYear": "95.03%",
-    "time": 3994,
-    "timeDay": 8832,
-    "timeWeek": 17406,
-    "timeMonth": 11235,
-    "timeYear": 4148,
+    "uptimeMonth": "41.85%",
+    "uptimeYear": "94.92%",
+    "time": 3991,
+    "timeDay": 7625,
+    "timeWeek": 15961,
+    "timeMonth": 11063,
+    "timeYear": 4145,
     "dailyMinutesDown": {
       "2025-09-17": 65,
       "2025-09-21": 126,
@@ -863,7 +863,8 @@
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 785,
-      "2026-07-25": 980
+      "2026-07-25": 1378,
+      "2026-07-26": 153
     }
   }
 ]
