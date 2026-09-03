@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 3759,
-    "timeDay": 6474,
-    "timeWeek": 3972,
-    "timeMonth": 5029,
-    "timeYear": 3937,
+    "time": 3765,
+    "timeDay": 5197,
+    "timeWeek": 4125,
+    "timeMonth": 4853,
+    "timeYear": 3944,
     "dailyMinutesDown": {
       "2025-09-17": 66,
       "2025-09-21": 130,
@@ -39,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1750,
-    "timeDay": 1298,
-    "timeWeek": 1676,
-    "timeMonth": 1673,
+    "timeDay": 1478,
+    "timeWeek": 1651,
+    "timeMonth": 1677,
     "timeYear": 1736,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/registratura.taxeimpozite4.ro.ico",
     "slug": "ditl-registratura",
     "status": "down",
-    "uptime": "65.29%",
+    "uptime": "65.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -62,7 +62,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-02": 1263,
+      "2026-09-03": 174,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -425,8 +426,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   },
   {
@@ -446,7 +446,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-02": 1263,
+      "2026-09-03": 174,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -809,8 +810,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   },
   {
@@ -820,15 +820,15 @@
     "slug": "pol",
     "status": "up",
     "uptime": "96.57%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeDay": "24.38%",
+    "uptimeWeek": "3.48%",
+    "uptimeMonth": "0.23%",
     "uptimeYear": "84.41%",
-    "time": 4532,
-    "timeDay": 1380,
-    "timeWeek": 9658,
-    "timeMonth": 10633,
-    "timeYear": 4956,
+    "time": 4528,
+    "timeDay": 1295,
+    "timeWeek": 8569,
+    "timeMonth": 10342,
+    "timeYear": 4950,
     "dailyMinutesDown": {
       "2025-09-17": 65,
       "2025-09-21": 126,
