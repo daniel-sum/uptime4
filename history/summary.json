@@ -51,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/registratura.taxeimpozite4.ro.ico",
     "slug": "ditl-registratura",
     "status": "down",
-    "uptime": "65.09%",
+    "uptime": "65.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -62,7 +62,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-09": 182,
+      "2026-09-09": 692,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -435,7 +435,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/svu.ps4.ro.ico",
     "slug": "svu",
     "status": "down",
-    "uptime": "53.41%",
+    "uptime": "53.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -446,7 +446,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-09": 182,
+      "2026-09-09": 692,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -818,17 +818,17 @@
     "url": "https://www.politialocala4.ro",
     "icon": "https://icons.duckduckgo.com/ip3/www.politialocala4.ro.ico",
     "slug": "pol",
-    "status": "up",
+    "status": "down",
     "uptime": "96.38%",
-    "uptimeDay": "34.64%",
-    "uptimeWeek": "32.00%",
-    "uptimeMonth": "6.60%",
+    "uptimeDay": "69.99%",
+    "uptimeWeek": "37.05%",
+    "uptimeMonth": "7.76%",
     "uptimeYear": "83.31%",
-    "time": 4570,
-    "timeDay": 1096,
-    "timeWeek": 5328,
-    "timeMonth": 9648,
-    "timeYear": 4997,
+    "time": 4586,
+    "timeDay": 4920,
+    "timeWeek": 5885,
+    "timeMonth": 9721,
+    "timeYear": 5017,
     "dailyMinutesDown": {
       "2025-09-17": 65,
       "2025-09-21": 126,
@@ -907,7 +907,8 @@
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 621,
-      "2026-09-08": 1124
+      "2026-09-08": 1124,
+      "2026-09-09": 0
     }
   }
 ]
