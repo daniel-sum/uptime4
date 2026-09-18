@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 3820,
-    "timeDay": 5055,
-    "timeWeek": 5441,
-    "timeMonth": 4586,
-    "timeYear": 4023,
+    "uptimeYear": "99.79%",
+    "time": 3829,
+    "timeDay": 7215,
+    "timeWeek": 5711,
+    "timeMonth": 4727,
+    "timeYear": 4036,
     "dailyMinutesDown": {
       "2025-09-21": 130,
       "2025-09-22": 227,
@@ -37,11 +37,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1752,
-    "timeDay": 1751,
-    "timeWeek": 1770,
-    "timeMonth": 1681,
-    "timeYear": 1732,
+    "time": 1753,
+    "timeDay": 1691,
+    "timeWeek": 1756,
+    "timeMonth": 1680,
+    "timeYear": 1733,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/registratura.taxeimpozite4.ro.ico",
     "slug": "ditl-registratura",
     "status": "down",
-    "uptime": "64.84%",
+    "uptime": "64.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -61,7 +61,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-17": 204,
+      "2026-09-18": 190,
+      "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
@@ -424,8 +425,7 @@
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
-      "2025-09-19": 1440,
-      "2025-09-18": 1440
+      "2025-09-19": 1440
     }
   },
   {
@@ -434,7 +434,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/svu.ps4.ro.ico",
     "slug": "svu",
     "status": "down",
-    "uptime": "53.21%",
+    "uptime": "53.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -445,7 +445,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-17": 204,
+      "2026-09-18": 190,
+      "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
@@ -808,8 +809,7 @@
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
-      "2025-09-19": 1440,
-      "2025-09-18": 1440
+      "2025-09-19": 1440
     }
   },
   {
@@ -819,15 +819,15 @@
     "slug": "pol",
     "status": "up",
     "uptime": "96.13%",
-    "uptimeDay": "72.13%",
-    "uptimeWeek": "26.58%",
-    "uptimeMonth": "13.48%",
-    "uptimeYear": "81.75%",
-    "time": 4818,
-    "timeDay": 1713,
-    "timeWeek": 15783,
-    "timeMonth": 10317,
-    "timeYear": 5327,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "32.13%",
+    "uptimeMonth": "16.35%",
+    "uptimeYear": "81.76%",
+    "time": 4815,
+    "timeDay": 1579,
+    "timeWeek": 17017,
+    "timeMonth": 10065,
+    "timeYear": 5324,
     "dailyMinutesDown": {
       "2025-09-21": 126,
       "2025-09-22": 209,
