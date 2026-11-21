@@ -13,8 +13,8 @@
     "time": 4043,
     "timeDay": 6856,
     "timeWeek": 4051,
-    "timeMonth": 4118,
-    "timeYear": 4340,
+    "timeMonth": 4035,
+    "timeYear": 4343,
     "dailyMinutesDown": {
       "2026-03-04": 126,
       "2026-03-16": 48,
@@ -36,8 +36,8 @@
     "time": 1740,
     "timeDay": 1913,
     "timeWeek": 1812,
-    "timeMonth": 1713,
-    "timeYear": 1730,
+    "timeMonth": 1719,
+    "timeYear": 1729,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptime": "64.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.39%",
-    "uptimeYear": "6.69%",
+    "uptimeMonth": "79.06%",
+    "uptimeYear": "6.75%",
     "time": 3341,
     "timeDay": 3879,
     "timeWeek": 3290,
@@ -396,8 +396,7 @@
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
-      "2025-11-22": 1440,
-      "2025-11-21": 1440
+      "2025-11-22": 1440
     }
   },
   {
@@ -417,7 +416,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-20": 1257,
+      "2026-11-21": 110,
+      "2026-11-20": 1440,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
@@ -780,8 +780,7 @@
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
-      "2025-11-22": 1440,
-      "2025-11-21": 1440
+      "2025-11-22": 1440
     }
   },
   {
@@ -789,17 +788,17 @@
     "url": "https://www.politialocala4.ro",
     "icon": "https://icons.duckduckgo.com/ip3/www.politialocala4.ro.ico",
     "slug": "pol",
-    "status": "down",
-    "uptime": "96.23%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "81.87%",
-    "time": 4627,
-    "timeDay": 2013,
-    "timeWeek": 2149,
-    "timeMonth": 2404,
-    "timeYear": 5165,
+    "status": "up",
+    "uptime": "96.22%",
+    "uptimeDay": "79.61%",
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "81.82%",
+    "time": 4624,
+    "timeDay": 1962,
+    "timeWeek": 2119,
+    "timeMonth": 2425,
+    "timeYear": 5162,
     "dailyMinutesDown": {
       "2025-11-25": 18,
       "2026-01-25": 23,
@@ -881,7 +880,8 @@
       "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-10-27": 313,
-      "2026-11-20": 0
+      "2026-11-21": 110,
+      "2026-11-20": 184
     }
   }
 ]
